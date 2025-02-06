@@ -1,4 +1,7 @@
 # Tugas-Perhitungan-IP-Address
-<hr>
 
-<img  src="kabel UTP.jpeg" alt="cable"  width="300px">
+<img  src="1.jpeg" alt="cable"  width="500px"><img  src="2.jpeg" alt="cable"  width="500px">
+<img  src="3.jpeg" alt="cable"  width="500px"><img  src="4.jpeg" alt="cable"  width="500px">
+<img  src="5.jpeg" alt="cable"  width="500px"><img  src="6.jpeg" alt="cable"  width="500px">
+<img  src="7.jpeg" alt="cable"  width="500px">
+
